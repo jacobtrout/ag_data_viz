@@ -21,5 +21,15 @@ This graph highlights how total crop production varies across states over time. 
 ### 3 - Aggregate Acres Planted over time by states
 This graph highlights how the total amount of land used to plant key crops varies across states over time. It gives us a different angle on the relative importance of each state in aggricultural production.
 
+### 4 - Change in Acres Planted between 1980 - 2020
+This graph shows the change in the average acres planted for all crops in the 1975-1980 period and the 2015-2020 period. It shows us which states have experiences the largest amount of growth in acres planted for each crop (or the larges decline in the cast of wheat)
+
+### 5,6,7 - State of Crop Production by Count in 2015-2020
+These three maps show which counties plant acres of each crop type. They highlight which regions within the midwest are the most important areas for each kind of crop production in recent years.
+
+# 8 - Crop Production Heat Map
+This map shows provides a heat map of crop production (by county) by longitude and latitude. The goal is to focus on the geospatial components of counties to see what we can learn about production.
 
 ## What form do you envision your final deliverable taking? (An article incorporating the images? A poster? An infographic?)
+
+An article feels smart! Once i do some more work to build together a story, i will be able to better answer this.
