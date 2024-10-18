@@ -1,6 +1,7 @@
 # Midwest Agricutlural Trednds
 
 Jacob Trout
+Please see "images_draft_10_18.ipynb" for code
 
 ## What is your current goal? Has it changed since the proposal?
 
